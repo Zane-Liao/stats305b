@@ -6,6 +6,8 @@
 *.tex
 *.pdf
 *hw1_files
+*hw2_files
 *demographics.csv
 *eojson-counties-fips.json
 *time
+*subsampled_last_fm.csv
